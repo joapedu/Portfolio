@@ -1,12 +1,12 @@
 <div align="center">
 
-### English Portfolio
+### PT-BR Portfolio
 
-#### Portfolio by [João Eduardo](https://www.linkedin.com/in/joão-eduardo-braga) enjoy!
+#### Portfolio por [João Eduardo](https://www.linkedin.com/in/joão-eduardo-braga) enjoy!
 
 </div>
 
-<h3 align="center">:phone: <i>C O N T A C T</i> :phone:</h2>
+<h3 align="center">:phone: <i>C O N T A T O</i> :phone:</h2>
 <div align="center">
     <a href="https://joao-eduardo-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2F3134?style=for-the-badge&logo=alibabacloud&logoColor=white"></a>
     <a href = "mailto:joaoeduardobraga2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F80000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
