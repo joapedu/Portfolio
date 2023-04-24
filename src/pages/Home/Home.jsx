@@ -10,7 +10,6 @@ function Home() {
     <>
       <HomeContainer id="home">
         <Texts>
-            Hello, I am
 
           <h1>João Eduardo Braga</h1>
 
