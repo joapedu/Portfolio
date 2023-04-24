@@ -1,7 +1,7 @@
 <div align="center">
 
 ### English Portfolio
-   - Portfolio by [João Eduardo](https://www.linkedin.com/in/joão-eduardo-braga) enjoy!
+-       Portfolio by [João Eduardo](https://www.linkedin.com/in/joão-eduardo-braga) enjoy!
 
 </div>
 
