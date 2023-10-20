@@ -29,7 +29,7 @@ function Projects() {
               <a href={item.clone_url} target="_blank">
                 Link do Projeto
               </a>
-              <a href={`https://${item.homepage}`} target="_blank">
+              <a href={`${item.homepage}`} target="_blank">
                 Live Server
               </a>
             </Card>
